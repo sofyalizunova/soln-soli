@@ -7,6 +7,10 @@ c=int(c)
 print('Вывод')
 print( c )
 
+print('Ввод')
+a= input()
+b= a-(a//10)*10
+print('Вывод', b)
 
 
 
